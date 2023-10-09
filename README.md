@@ -11,11 +11,11 @@ How can you launch my app?
 
   Of course you can manually install dependencies:
 1. In directory /server run 
-npm i
-npm run start
+- npm i
+- npm run start
 2. In dir /client
-npm i
-npm run dev
+- npm i
+- npm run dev
 
 That's all. 
     
