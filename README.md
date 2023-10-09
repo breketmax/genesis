@@ -1,7 +1,7 @@
 Hello, this is my test task in genesis.
 How can you launch my app?
  - Windows
-  With help of cmd just enter next commands:
+  With help of cmd just run next commands:
   1. install.bat
   2. start.bat
 
