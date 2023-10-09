@@ -17,5 +17,6 @@ How can you launch my app?
 - npm i
 - npm run dev
 
+Enjoy maybe?
 That's all. 
     
